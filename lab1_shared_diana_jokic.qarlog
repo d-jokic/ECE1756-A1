@@ -1,0 +1,19 @@
+Quartus Prime Archive log --	/nfs/ug/homes-3/j/jokicdia/Desktop/lab_one_shared_2/lab1_shared_diana_jokic.qarlog
+
+Archive:	/nfs/ug/homes-3/j/jokicdia/Desktop/lab_one_shared_2/lab1_shared_diana_jokic.qar
+Date:		Thu Oct  8 22:30:18 2020
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Standard Edition
+
+	=========== Files Selected: ===========
+/cad1/Altera/20.1/quartus/linux64/assignment_defaults.qdf
+/nfs/ug/homes-3/j/jokicdia/Desktop/lab_one_shared_2/SDC1.sdc
+/nfs/ug/homes-3/j/jokicdia/Desktop/lab_one_shared_2/lab1.qpf
+/nfs/ug/homes-3/j/jokicdia/Desktop/lab_one_shared_2/lab1.qsf
+/nfs/ug/homes-3/j/jokicdia/Desktop/lab_one_shared_2/lab1.sv
+/nfs/ug/homes-3/j/jokicdia/Desktop/lab_one_shared_2/lab1_tb.v
+/nfs/ug/homes-3/j/jokicdia/Desktop/lab_one_shared_2/simulation/modelsim/lab1.vcd
+/nfs/ug/homes-3/j/jokicdia/Desktop/lab_one_shared_2/simulation/modelsim/lab1_dump_all_vcd_nodes.tcl
+	======= Total: 8 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
